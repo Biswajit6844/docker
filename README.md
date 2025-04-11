@@ -8,7 +8,6 @@ Additionally, it covers examples of the containerization of complete full-stack 
 
 This repository contains the corresponding code for all these dockerized applications using the latest Docker features, including docker-compose watch and init.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 
 
